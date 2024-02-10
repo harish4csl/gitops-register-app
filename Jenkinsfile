@@ -39,7 +39,6 @@ pipeline {
                   sh "git push https://github.com/harish4csl/gitops-register-app main"
                 }
             }
-        }
-      
+        } 
     }
 }
